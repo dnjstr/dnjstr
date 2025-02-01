@@ -1,10 +1,10 @@
 # Hi, I'm Den Jester Antonio 👋
 
-🚀 Junior Developer | Open Source Enthusiast | Tech Lover
+🚀 Aspiring Full Stack Developer | Software Engineer
 
 🌍 Location: [Damilag, Manolo Fortich, Bukidnon]
-🎓 Studying at [UNIVERSITY OF SCIENCE AND TECHNOLOGY OF SOUTHERN PHILIPPINES]
 
+🎓 Studying at [UNIVERSITY OF SCIENCE AND TECHNOLOGY OF SOUTHERN PHILIPPINES]
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjstr&show_icons=true&theme=dark)
 
