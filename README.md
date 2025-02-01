@@ -31,6 +31,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjstr&show_icons=true&theme=dark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dnjstr)
-![Profile views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=dnjstr&color=blue)
 
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark)](https://github.com/dnjstr)
+[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
