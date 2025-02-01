@@ -6,8 +6,6 @@
 
 🎓 Studying at [UNIVERSITY OF SCIENCE AND TECHNOLOGY OF SOUTHERN PHILIPPINES]
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjstr&show_icons=true&theme=dark)
-
 ### 🛠️ Programming Languages, Web Development, Database, and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,6 +27,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjstr&show_icons=true&theme=dark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dnjstr)
 ![Profile views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
