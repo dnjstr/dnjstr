@@ -1,6 +1,6 @@
 # Hi, I'm Den Jester Antonio👋
 
-🚀 Aspiring to be Software Engineer | Full Stack Developer
+🚀 Aspiring to become Software Engineer | Full Stack Developer
 
 🌍 Location: [Damilag, Manolo Fortich, Bukidnon]
 
