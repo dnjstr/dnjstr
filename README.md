@@ -27,7 +27,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="background:white; padding:10px; border-radius:10px;"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjstr&layout=compact&theme=radical)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjstr&show_icons=true&theme=dark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dnjstr)
