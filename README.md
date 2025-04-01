@@ -21,15 +21,20 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
-
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr005&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
-</div>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="background:white; padding:10px; border-radius:10px;"/>
 </p>
+
+
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr005&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
+</div>
+
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr005&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjstr&layout=compact&theme=radical)
 
