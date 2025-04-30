@@ -39,8 +39,3 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dnjstr&color=blue)
 
 [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
-
- <h2>/ contribution snake /</h2>
-  <p align="center">
-    <img src="https://github.com/dnjstr/blob/output/github-snake-dark.svg" alt="snake">
-  </p>
