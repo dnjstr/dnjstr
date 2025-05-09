@@ -27,10 +27,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="background:white; padding:10px; border-radius:10px;"/>
 </p>
 
- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
-</div>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjstr&layout=compact&theme=radical)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjstr&show_icons=true&theme=dark)
@@ -39,3 +35,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dnjstr&color=blue)
 
 [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
+
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
+</div>
