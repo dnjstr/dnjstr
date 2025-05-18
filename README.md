@@ -2,9 +2,9 @@
 
 🚀 Aspiring to become Software Engineer | Full Stack Developer
 
-🌍 Location: [Damilag, Manolo Fortich, Bukidnon]
+🌍 Location: Damilag, Manolo Fortich, Bukidnon
 
-🎓 Studying at [UNIVERSITY OF SCIENCE AND TECHNOLOGY OF SOUTHERN PHILIPPINES]
+🎓 Studying at UNIVERSITY OF SCIENCE AND TECHNOLOGY OF SOUTHERN PHILIPPINES
 
 ### 🛠️ Programming Languages, Web Development, Database, and Tools: 
 <p align="left">
