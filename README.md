@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HELLO!;I'm+Den+Jester+Antonio;A+COMPSCI+STUDENT;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HELLO!;I'm+Den+Jester+Antonio;A+COMPSCI+STUDENT;" alt="Typing SVG" />
 </div>
 
 🎓 Studying at UNIVERSITY OF SCIENCE AND TECHNOLOGY OF SOUTHERN PHILIPPINES
