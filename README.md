@@ -1,4 +1,6 @@
-# Hi, I'm Den Jester Antonio👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FADCF&center=true&vCenter=true&width=435&lines=Den+Jester+Antonio;COMPSCI+STUDENT" alt="Typing SVG" />
+</div>
 
 🚀 Aspiring to become Software Engineer | Full Stack Developer
 
