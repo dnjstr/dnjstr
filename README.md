@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FADCF&center=true&vCenter=true&width=435&lines=Den+Jester+Antonio;COMPSCI+STUDENT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FADCF&center=true&vCenter=true&width=435&lines=HELLO!;I'm+Den+Jester+Antonio;A+COMPSCI+STUDENT;🎓+Studying+at+UNIVERSITY+OF+SCIENCE+AND+TECHNOLOGY+OF+SOUTHERN+PHILIPPINES;🚀+Aspiring+to+become+Software+Engineer+|+Full+Stack+Developer" alt="Typing SVG" />
 </div>
-
-🚀 Aspiring to become Software Engineer | Full Stack Developer
-
-🎓 Studying at UNIVERSITY OF SCIENCE AND TECHNOLOGY OF SOUTHERN PHILIPPINES
 
 ### 🛠️ Programming Languages, Web Development, Database, and Tools: 
 <p align="left">
