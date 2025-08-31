@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Den+Jester+Antonio;A+COMPSCI+STUDENT+IN+USTP;Dreamer,+Programmer;Be+Quiet+and+DRIVE!;" alt="Typing SVG" />
 </div>
 
-
-<div align="center">
-  <span style="font-size:20px;">🚀 Aspiring to become Software Engineer | Full Stack Developer</span>
-</div>
-
+🚀 Aspiring to become Software Engineer | Full Stack Developer
 
 🛠️ Programming Languages, Web Development, Database, and Tools: 
 <p align="left">
