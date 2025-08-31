@@ -41,7 +41,7 @@
   <br><br>
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=dnjstr&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 
   <br><br>
 
