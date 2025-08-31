@@ -41,7 +41,7 @@
   <br><br>
 
   <!-- Profile Views -->
- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dnjstr)
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Visitors&color=lightgrey&style=flat" alt="Profile Views" />
 
   <br><br>
 
