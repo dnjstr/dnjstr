@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Den+Jester+Antonio;A+COMPSCI+STUDENT+IN+USTP;Dreamer,+Programmer;Be+Quiet+and+DRIVE!;" alt="Typing SVG" />
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=dnjstr&label=Visitors&color=lightgrey&style=flat" alt="Profile Views" width="200"/>
+
 🚀 Aspiring to become Software Engineer | Full Stack Developer
 
 🛠️ Programming Languages, Web Development, Database, and Tools: 
@@ -37,11 +39,6 @@
 
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=dnjstr&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-  <br><br>
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Visitors&color=lightgrey&style=flat" alt="Profile Views" />
 
   <br><br>
 
