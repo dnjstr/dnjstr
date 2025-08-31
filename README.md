@@ -5,7 +5,8 @@
 <div align="center">
 <🚀 Aspiring to become Software Engineer | Full Stack Developer>
 </div>
-### 🛠️ Programming Languages, Web Development, Database, and Tools: 
+  
+🛠️ Programming Languages, Web Development, Database, and Tools: 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
