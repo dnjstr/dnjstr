@@ -2,10 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Den+Jester+Antonio;A+COMPSCI+STUDENT+IN+USTP;Dreamer,+Programmer;Be+Quiet+and+DRIVE!;" alt="Typing SVG" />
 </div>
 
+
 <div align="center">
-<🚀 Aspiring to become Software Engineer | Full Stack Developer>
+🚀 Aspiring to become Software Engineer | Full Stack Developer
 </div>
-  
+
+
 🛠️ Programming Languages, Web Development, Database, and Tools: 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
