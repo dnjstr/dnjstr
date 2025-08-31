@@ -4,11 +4,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Visitors&color=lightgrey&style=flat" alt="Profile Views" width="200"/>
 
-<span style="font-size:20px; font-weight:bold;">Aspiring to become Software Engineer | Full Stack Developer</span>
+<span style="font-size:20px; font-weight:bold;">🚀 Aspiring to become Software Engineer | Full Stack Developer</span>
 
 <br>
 
-<span style="font-size:18px; color:black;">Programming Languages, Web Development, Database, and Tools:</span>
+<span style="font-size:20px; font-weight:bold;">🛠️ Programming Languages, Web Development, Database, and Tools:</span>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
