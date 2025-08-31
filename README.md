@@ -25,14 +25,31 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="background:white; padding:10px; border-radius:10px;"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjstr&layout=compact&theme=radical)
+<div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjstr&show_icons=true&theme=dark)
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dnjstr&show_icons=true&theme=dark" alt="GitHub Stats" height="180em" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dnjstr)
-![Profile views](https://komarev.com/ghpvc/?username=dnjstr&color=blue)
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjstr&layout=compact&theme=dark" alt="Top Langs" height="180em" />
 
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
+  <br><br>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dnjstr&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+  <br><br>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&color=blue&style=flat-square" alt="Profile Views" />
+
+  <br><br>
+
+  <!-- Contribution Graph -->
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
+
+</div>
+
 
  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
