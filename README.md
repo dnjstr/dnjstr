@@ -5,20 +5,15 @@
 </div>
 
 ---
-
 <div align="center">   
   <img src="quote.svg" />
 </div>
-
 ---
-
 <br>
 ---
-
 <div align="center">   
   <img src="Codingtools.svg" />
 </div>
-
 ---
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
