@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Visitors&color=lightgrey&style=flat" alt="Profile Views" width="200"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Den+Jester+Antonio;A+COMPSCI+STUDENT+IN+USTP;Dreamer,+Programmer;Be+Quiet+and+DRIVE!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=2414ffff&center=true&vCenter=true&width=435&lines=I'm+Den+Jester+Antonio;A+COMPSCI+STUDENT+IN+USTP;Dreamer,+Programmer;Be+Quiet+and+DRIVE!;" alt="Typing SVG" />
 </div>
 
 <br>
@@ -10,7 +10,7 @@
   <img src="quote.svg" />
 </div>
 
----
+<br>
 
 <div align="center">   
   <img src="Codingtools.svg" />
