@@ -5,7 +5,9 @@
 </div>
 
 
-<h2 align="center">👨‍💻 Aspiring to become Software Engineer | Full Stack Developer</h2>
+<div align="center">   
+  <img src="quote.svg" />
+</div>
 
 <br>
 
