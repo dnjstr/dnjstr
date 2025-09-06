@@ -3,7 +3,7 @@
   
   <!-- Static Quote -->
   <text x="60%" y="60%" text-anchor="middle"
-        font-family="Courier New, monospace" font-size="18" fill="#2414ffff" font-weight="bold">
+        font-family="Courier New, monospace" font-size="20" fill="#2414ffff" font-weight="bold">
     👨‍💻 Aspiring to become Software Engineer | Full Stack Developer
   </text>
 </svg>

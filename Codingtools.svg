@@ -3,7 +3,7 @@
   
   <!-- Static Quote -->
   <text x="50%" y="40%" text-anchor="middle"
-        font-family="Courier New, monospace" font-size="18" fill="#2414ffff" font-weight="bold">
+        font-family="Courier New, monospace" font-size="20" fill="#2414ffff" font-weight="bold">
     🛠️ Programming Languages, Web Development, Database, and Tools 🛠️
   </text>
 </svg>
