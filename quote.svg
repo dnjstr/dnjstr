@@ -2,7 +2,7 @@
   <rect width="90%" height="90%" fill="#000000" />
   
   <!-- Static Quote -->
-  <text x="60%" y="60%" text-anchor="middle"
+  <text x="50%" y="40%" text-anchor="middle"
         font-family="Courier New, monospace" font-size="20" fill="#2414ffff" font-weight="bold">
     👨‍💻 Aspiring to become Software Engineer | Full Stack Developer
   </text>
