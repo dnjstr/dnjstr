@@ -13,8 +13,13 @@
 ---
 
 <br>
+---
 
-<h2 align="center">🛠️ <strong>Programming Languages, Web Development, Database, and Tools</strong> 🛠️</h2>
+<div align="center">   
+  <img src="Codingtools.svg" />
+</div>
+
+---
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
