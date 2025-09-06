@@ -10,7 +10,7 @@
   <img src="quote.svg" />
 </div>
 
-<br>
+---
 
 <div align="center">   
   <img src="Codingtools.svg" />
