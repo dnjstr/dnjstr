@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="color: #1e3a8a;">Be Quiet and Drive</h2>
+  <h2 style="color: #1e3a8a;">Be Quiet and Drive <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBxcjBwcmw2YWRkNGhybXdlbDAxczhtMG5qMDU1b2RtMHJ4Zmo4ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" width="40" height="40" alt="Drive GIF" /></h2>
 </div>
 
 ```typescript
