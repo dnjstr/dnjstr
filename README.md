@@ -1,3 +1,7 @@
+<div align="center">
+  <h2 style="color: #1e3a8a;">Be Quiet and Drive</h2>
+</div>
+
 ```typescript
 const aboutMe = {
   developer: {
@@ -27,7 +31,8 @@ const aboutMe = {
 
   futureGoals: {
     exploring: ["Machine Learning", "Deep Learning", "AI Development"],
-    technologies: ["TensorFlow", "PyTorch", "Scikit-learn"]
+    technologies: ["TensorFlow", "PyTorch", "Scikit-learn"],
+    dream: ["To Become a Software Engineer"]
   }
 } as const;
 
