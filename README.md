@@ -1,31 +1,5 @@
 <img align='left' style='margin-left: 10px' width='300px' height='450px' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBxcjBwcmw2YWRkNGhybXdlbDAxczhtMG5qMDU1b2RtMHJ4Zmo4ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif' />
-#
----
-<div align='left'>
-  <table>
-  <tr>
-  <td align="left">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr&theme=dark&hide_border=false" alt="GitHub Streak" />
-  
-  </td>
-  <td>
-  
-  <div>
-    <img width='100px' alt="GitHub Org's stars" src="https://img.shields.io/github/stars/dnjstr">
-    <br>
-    <img width='90px' src="https://visitor-badge.laobi.icu/badge?page_id=dnjstr.dnjstr" alt="Visitors" />
-    <br>
-    <img width='120px' src="https://komarev.com/ghpvc/?username=dnjstr&color=brightgreen" alt="watching_count" />
-  </div>
-  
-  </td>
-  
-  </tr>
-  </table>
-</div>
-#
-<div>
+
 
 ```typescript
 const aboutMe = {
