@@ -1,5 +1,8 @@
-<img align='left' style='margin-left: 10px' width='300px' height='450px' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBxcjBwcmw2YWRkNGhybXdlbDAxczhtMG5qMDU1b2RtMHJ4Zmo4ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif' />
+<div align="left" style='margin-left: 10px'>
+  <h2 style="color: #1e3a8a;">Be Quiet and Drive</h2>
+</div>
 
+<img align='left' style='margin-left: 10px' width='300px' height='450px' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBxcjBwcmw2YWRkNGhybXdlbDAxczhtMG5qMDU1b2RtMHJ4Zmo4ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif' />
 
 ```typescript
 const aboutMe = {
