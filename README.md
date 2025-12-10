@@ -1,4 +1,4 @@
-<div align="left" style='margin-left: 10px'>
+<div align="left" style='margin-left: 20px'>
   <h2 style="color: #1e3a8a;">Be Quiet and Drive</h2>
 </div>
 
@@ -7,8 +7,7 @@
 ```typescript
 const aboutMe = {
   developer: {
-    name: "dnjstr",
-    motto: "Be Quiet and Drive",
+    name: "Den Jester Antonio",
     education: "CS Student @ USTP Cagayan de Oro",
     location: "Cagayan de Oro, PH",
     workingOn: ["Full-Stack Projects", "Web Development"],
