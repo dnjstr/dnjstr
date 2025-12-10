@@ -9,11 +9,11 @@ const aboutMe = {
   },
 
   techStack: {
-    languages: ["JavaScript", "TypeScript", "Python", "C++", "Java", "HTML5", "CSS3"],
+    languages: ["JavaScript", "TypeScript", "Python", "C++", "Java", "CSS3"],
     technologies: {
       frontend: { 
         frameworks: ["React"], 
-        styling: ["CSS3", "HTML5"] 
+        styling: ["CSS3"] 
       },
       backend: { 
         javascript: ["Node.js"], 
