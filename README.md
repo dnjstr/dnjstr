@@ -46,19 +46,7 @@ type AboutMe = typeof aboutMe;
 ---
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dnjstr&show_icons=true&theme=dark" alt="GitHub Stats" height="180em" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjstr&layout=compact&theme=dark" alt="Top Langs" height="180em" />
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=dnjstr&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-  <br><br>
-
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
-
 </div>
 
 <div align="center">
