@@ -46,7 +46,9 @@ type AboutMe = typeof aboutMe;
 ---
 
 <div align="center">
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
+
 </div>
 
 <div align="center">
