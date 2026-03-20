@@ -1,6 +1,9 @@
 <div align="left" style='margin-left: 20px'>
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
+<p align="right" style='margin-left: 20px'>
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20views&color=0e75b6&style=flat" alt="dnjstr" />
+</p>
 
 <div align="center">
   <table>
@@ -25,7 +28,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
 </div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20views&color=0e75b6&style=flat" alt="dnjstr" />
-</p>
