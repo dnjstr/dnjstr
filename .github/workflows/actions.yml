@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC_TOKEN }}
 
           user: dnjstr
           template: classic
@@ -33,7 +33,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -41,7 +41,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC_TOKEN }}
           base: ""
           commits_authoring: dnjstr
           plugin_languages: yes
