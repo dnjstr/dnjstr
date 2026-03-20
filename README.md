@@ -2,7 +2,7 @@
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
 
-<div align="center" style="background-color: #193177; padding: 20px; border-radius: 10px;">
+<div align="center">
   <table>
     <tr>
       <td rowspan="2"><img src="./metrics.classic.svg" alt="classic" /></td>
