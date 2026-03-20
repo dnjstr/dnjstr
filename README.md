@@ -1,8 +1,8 @@
 <div align="left" style='margin-left: 20px'>
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
-<p align="center">
-  <img src="https://hits.dwyl.com/dnjstr/github-readme.svg?style=flat-square&show=unique" alt="views"/>
+<p align="left">
+  <img src="https://count.getloli.com/get/@dnjstr?theme=asoul" alt="visitor counter"/>
 </p>
 
 <div align="center">
