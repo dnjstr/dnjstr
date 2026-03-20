@@ -1,7 +1,7 @@
 <div align="left" style='margin-left: 20px'>
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
 </p>
 
