@@ -1,8 +1,8 @@
 <div align="left" style='margin-left: 20px'>
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
-<p align="right" style='margin-left: 20px'>
-  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20views&color=0e75b6&style=flat" alt="dnjstr" />
+<p align="right">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnjstr&count_bg=%230D1117&title_bg=%23193177&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true)](https://github.com/dnjstr)
 </p>
 
 <div align="center">
