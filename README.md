@@ -1,3 +1,7 @@
+<div align="left" style='margin-left: 20px'>
+  <h2 style="color: #193177;">Be Quiet and CODE!</h2>
+</div>
+
 <div align="center">
   <table>
     <tr>
@@ -11,10 +15,6 @@
 </div>
 
 <hr/>
-
-<div align="left" style='margin-left: 20px'>
-  <h2 style="color: #193177;">Be Quiet and CODE!</h2>
-</div>
 
 <div align="center">
 
