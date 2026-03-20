@@ -1,8 +1,11 @@
 <div align="left" style='margin-left: 20px'>
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
-<p align="left">
-  <img src="https://count.getloli.com/get/@dnjstr?theme=asoul" alt="visitor counter"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=193177&height=120&section=header&text=Welcome&fontColor=ffffff"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Visitors&color=193177&style=for-the-badge"/>
 </p>
 
 <div align="center">
@@ -18,12 +21,6 @@
 </div>
 
 <hr/>
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
