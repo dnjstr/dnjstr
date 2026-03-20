@@ -2,10 +2,10 @@
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Visitors:+Loading...;Tracking+Views...;Welcome+to+my+profile" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dnjstr&color=00ff00&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Visitors&color=193177&style=for-the-badge"/>
 </p>
 
 <div align="center">
