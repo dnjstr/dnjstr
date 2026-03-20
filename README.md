@@ -2,7 +2,7 @@
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
 <p align="center">
-  <img src="https://count.getloli.com/get/@dnjstr?theme=moebooru" alt="visitor counter"/>
+  <img src="https://hits.dwyl.com/dnjstr/github-readme.svg?style=flat-square&show=unique" alt="views"/>
 </p>
 
 <div align="center">
