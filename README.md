@@ -1,11 +1,9 @@
 <div align="left" style='margin-left: 20px'>
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
-<div align="right">
-  <a href="https://github.com/dnjstr">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnjstr&count_bg=%23193177&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
+</p>
 
 <div align="center">
   <table>
