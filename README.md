@@ -1,4 +1,4 @@
-<div align="left" style='margin-left: 20px'>
+<div align="left">
   <h2 style="color: #193177;">Be Quiet and CODE!</h2>
 </div>
 
