@@ -1,5 +1,5 @@
 <div align="left">
-  <strong>Be Quiet and CODE!</strong>
+  <h3>Be Quiet and CODE!</h3>
 </div>
 
 <hr/>
