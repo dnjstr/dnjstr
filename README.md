@@ -1,9 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
-</p>
-
-<hr/>
-
 <table>
   <tr>
     <td>
@@ -12,7 +6,7 @@
       </div>
     </td>
     <td valign="right">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMxM2s1Znc5cHFwcjd3azk1N3BncDJ2dnVocDhreW84amh1ZHg3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SIpB9TN2J1YYoori4F/giphy.gif" width="280" />
+      <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
     </td>
   </tr>
 </table>
