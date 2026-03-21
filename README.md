@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
+</p>
+
+<hr/>
+
 <table>
   <tr>
     <td>
@@ -10,12 +16,6 @@
     </td>
   </tr>
 </table>
-
-<hr/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
-</p>
 
 <hr/>
 
