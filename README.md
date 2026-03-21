@@ -6,7 +6,7 @@
       </div>
     </td>
     <td valign="right">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMxM2s1Znc5cHFwcjd3azk1N3BncDJ2dnVocDhreW84amh1ZHg3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SIpB9TN2J1YYoori4F/giphy.gif" width="400" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMxM2s1Znc5cHFwcjd3azk1N3BncDJ2dnVocDhreW84amh1ZHg3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SIpB9TN2J1YYoori4F/giphy.gif" width="250" />
     </td>
   </tr>
 </table>
