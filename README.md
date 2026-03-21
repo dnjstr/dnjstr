@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
 </p>
 
+<hr/>
+
 <div align="center">
   <table>
     <tr>
@@ -15,10 +17,4 @@
       <td><img src="./metrics.plugin.languages.svg" alt="languages" /></td>
     </tr>
   </table>
-</div>
-
-<hr/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
 </div>
