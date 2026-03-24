@@ -1,12 +1,18 @@
 <table>
   <tr>
     <td>
-      <div align="left">
-        <h3>Be Quiet and CODE!</h3>
+      <div style="font-family: monospace; display: flex; align-items: center; gap: 8px;">
+        <span style="color: #58a6ff; font-size: 18px; font-weight: 700;">&gt;_</span>
+        <h3 style="margin: 0; font-size: 17px;">
+          Be Quiet and <span style="color: #79c0ff">CODE!</span>
+        </h3>
       </div>
+      <p style="margin: 4px 0 0; color: #8b949e; font-size: 12px; font-family: monospace;">
+        // still compiling... pls don't disturb
+      </p>
     </td>
-    <td valign="right">
-      <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
+    <td align="right" valign="top">
+      <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=58a6ff&style=flat-square"/>
     </td>
   </tr>
 </table>
