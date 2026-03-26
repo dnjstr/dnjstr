@@ -1,4 +1,6 @@
-<table align="center">
+<hr/>
+
+<table >
   <tr>
     <td>
       <div align="left">
@@ -24,3 +26,5 @@
     </tr>
   </table>
 </div>
+
+<hr/>
