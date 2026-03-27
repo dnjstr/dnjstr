@@ -1,4 +1,4 @@
-<hr/>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,8&height=120&section=header&text=Be%20Quiet%20and%20CODE!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
