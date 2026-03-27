@@ -1,17 +1,14 @@
 <hr/>
 
-<table align="center">
-  <tr>
-    <td>
-      <div align="left">
-        <h3>Be Quiet and CODE!</h3>
-      </div>
-    </td>
-    <td valign="right">
-      <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Be%20Quiet%20and%20CODE!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+  <br/><br/>
+</div>
 
 <hr/>
 
