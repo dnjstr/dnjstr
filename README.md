@@ -1,11 +1,11 @@
 <hr/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Be%20Quiet%20and%20CODE!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,8&height=120&section=header&text=Be%20Quiet%20and%20CODE!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=dnjstr&label=👁️%20Profile%20Views&color=0d1b6e&style=for-the-badge"/>
 
   <br/><br/>
 </div>
