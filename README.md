@@ -1,3 +1,4 @@
+<hr/>
 
 <table align="center">
   <tr>
