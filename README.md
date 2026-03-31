@@ -1,15 +1,19 @@
-<table align="center">
+<div align="center">
+
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td>
-      <div align="left">
-        <h3>Be Quiet and CODE!</h3>
-      </div>
+    <td align="left" width="70%">
+      <samp>
+        <b>// Be Quiet and Code.</b>
+      </samp>
     </td>
-    <td valign="right">
-      <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
+    <td align="right" width="30%">
+      <img src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=0a0a0a&style=flat-square"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 <hr/>
 
