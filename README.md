@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-
+<hr/>
 
 <div align="center">
   <table>
