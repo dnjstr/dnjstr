@@ -1,6 +1,6 @@
 <hr/>
 
-<table align="right">
+<table align="center">
   <tr>
     <td>
       <div align="left">
