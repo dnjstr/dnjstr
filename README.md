@@ -1,12 +1,5 @@
 <hr/>
 
-<div>
-  <h3>Be Quiet and CODE!</h3>
-    <span align="left">
-      <img align="right" width="160" src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
-    </span>
-</div>
-
 <div align="center">
   <table>
     <tr>
@@ -17,6 +10,14 @@
       <td><img src="./metrics.plugin.languages.svg" alt="languages" /></td>
     </tr>
   </table>
+</div>
+
+
+<div>
+  <h3>Be Quiet and CODE!</h3>
+    <span align="left">
+      <img align="right" width="160" src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
+    </span>
 </div>
 
 <hr/>
