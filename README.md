@@ -1,11 +1,8 @@
 <hr/>
 
-<div>
-  <h3>Be Quiet and CODE!</h3>
-    <span align="left">
-      <img align="right" width="160" src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=flat-square"/>
-    </span>
-</div>
+<img align="right" src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=for-the-badge"/>
+
+### Be Quiet and CODE!
 
 <hr/>
 
