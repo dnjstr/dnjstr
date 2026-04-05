@@ -7,6 +7,8 @@
     </span>
 </div>
 
+<hr/>
+
 <div align="center">
   <table>
     <tr>
