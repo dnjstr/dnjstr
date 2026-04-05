@@ -1,8 +1,10 @@
 <hr/>
 
-### Be Quiet and CODE!
 <img align="right" src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=for-the-badge"/>
 
+### Be Quiet and CODE!
+
+<hr/>
 
 <div align="center">
   <table>
