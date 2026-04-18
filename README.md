@@ -1,3 +1,4 @@
+<hr/>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=for-the-badge"/>
 
