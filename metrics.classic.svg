@@ -307,7 +307,7 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
                                 <span class="added"> +20.2k</span>
-                                <span class="deleted"> -17.5k</span>
+                                <span class="deleted"> -17.6k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -450,7 +450,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2026, 15:47:16 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jun 2026, 18:06:23 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
