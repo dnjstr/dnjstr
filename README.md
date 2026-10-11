@@ -3,7 +3,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=dnjstr&label=Profile%20Views&color=555555&style=for-the-badge"/>
 
 ### Be Quiet and CODE!
-
+<a href="https://leetcode.com/u/dnjstr/"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 <hr/>
 
 <div align="center">
